@@ -169,8 +169,12 @@ const vowelTester3 = "challenges"
 // b) Create the function that makes the test pass.
 
 const firstVowel = (str) => {
-    return str.indexOf(str[1])
-
+    const str = ['a','e','i','o','u']
+for (let i =0 ; i < str.length; i++){
+  if (str.includes(string[i])){
+    return i
+  }
+}
 }
 
 
