@@ -179,5 +179,7 @@ for (let i =0 ; i < str.length; i++){
 
 
 // Pseudo code:
-
+      // Going to create function firstVowel that takes a string as a parameter
+      // Going to create a variable that has an array containing strings of the vowels
+      // Going to iterate through the words provided and if/when a vowel is found, it will return the index of the first instance of the vowel
 
